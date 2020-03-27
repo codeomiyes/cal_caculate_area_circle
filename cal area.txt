@@ -1,0 +1,8 @@
+def solve_circle_area():
+    print("Please,input the value of your radius ")
+    radius = int(input("Radius: ))
+    area = (22 * (radius**2))/7)
+    print(area)
+
+
+solve_circle_area()
